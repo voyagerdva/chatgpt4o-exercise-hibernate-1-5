@@ -35,15 +35,16 @@ public class AppRunner {
             HibernateUtil.shutdown();
         }
 
+
 //        System.out.println("Current ID of product: " + product.getId());
 //        product.setId(4L);
 
         // Get product
-//        try (Session session = HibernateUtil.getSessionFactory().openSession()) {
-//            Product savedProduct = session.get(Product.class, product.getId());
-//            System.out.printf("id: %s, Product: %s, price: %s", savedProduct.getId(), savedProduct.getName(), savedProduct.getPrice());
-//
-//        }
+        try (Session session = HibernateUtil.getSessionFactory().openSession()) {
+            Product savedProduct = session.get(Product.class, product.getId());
+            System.out.printf("id: %s, Product: %s, price: %s", savedProduct.getId(), savedProduct.getName(), savedProduct.getPrice());
+
+        }
 
         // Update product:
 //        try (Session session = HibernateUtil.getSessionFactory().openSession()){

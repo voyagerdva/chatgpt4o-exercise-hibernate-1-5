@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8483b321-02e0-494a-827e-52c9ef93d3fc" name="Changes" comment="ChG4o exercise 1 (logging)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nn/ru/entity/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nn/ru/entity/ProductId.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nn/ru/AppRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nn/ru/AppRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nn/ru/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nn/ru/entity/Product.java" afterDir="false" />
-    </list>
+    <list default="true" id="8483b321-02e0-494a-827e-52c9ef93d3fc" name="Changes" comment="ChG4o exercise 1 (logging)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +20,7 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="hibernate-exercise-1-5" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -49,14 +37,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "contexts": [
+  <component name="KubernetesApiProvider">{
+  &quot;contexts&quot;: [
     {
-      "name": "docker-desktop"
+      &quot;name&quot;: &quot;docker-desktop&quot;
     }
   ],
-  "isMigrated": true
-}]]></component>
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="KubernetesSettings">
     <option name="contextName" value="docker-desktop" />
   </component>
@@ -82,7 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/__PROJECT__/JAVA/ChatGPT-4o-Projects/chatgpt4o-exercise-hibernate-1-5",
+    "last_opened_file_path": "D:/__PROJECT__/JAVA/ChatGPT-4o-Projects/chatgpt4o-exercise-hibernate-1-5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -91,6 +79,7 @@
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -164,6 +153,11 @@
       <workItem from="1717526884492" duration="11028000" />
       <workItem from="1718178201142" duration="972000" />
       <workItem from="1718179483474" duration="8841000" />
+      <workItem from="1718393635447" duration="31000" />
+      <workItem from="1718438148930" duration="38000" />
+      <workItem from="1718438201190" duration="13000" />
+      <workItem from="1718452390565" duration="368000" />
+      <workItem from="1718452772060" duration="2007000" />
     </task>
     <task id="LOCAL-00001" summary="ChG4o exercise 1 (logging)">
       <option name="closed" value="true" />
@@ -205,5 +199,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ChG4o exercise 1 (logging)" />
     <option name="LAST_COMMIT_MESSAGE" value="ChG4o exercise 1 (logging)" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
